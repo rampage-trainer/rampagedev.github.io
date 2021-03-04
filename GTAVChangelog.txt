@@ -1,0 +1,10 @@
+>--- Changelog ---<
+
+Version 1.2.5
+-> Updated to Game Patch 1.0.2215.0
+-> Added Window Activators
+-> Added Option to change title text color
+-> Added Option to add parachutes to every vehicle
+-> Added Language Submenu
+(You can create your own translation and load it.
+Instructions are in the Example.xml inside the Language folder.)
