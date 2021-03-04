@@ -1,0 +1,11 @@
+>--- Changelog ---<
+
+Version 1.4.6
+-> Updated to Game Patch 1.0.1355.23
+-> Improved Free Cam
+-> Improved Creator Cam
+-> Fixed Undead Nightmare Minigame
+-> Added Horse Stats viewer in Horse Stats Submenu
+-> Added Option to Handcuff Ped in Ped Editor
+-> Added Option to Disable Ingame Toast Notifications
+-> Internal Improvements
