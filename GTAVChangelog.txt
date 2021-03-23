@@ -1,7 +1,7 @@
 >--- Changelog ---<
 
 Version 1.2.6
--> Updated to Game Patch 1.0.2245.0
--> Fixed Bank Editor
--> Added more stats to stat info
--> Internal Improvements
+> Updated to Game Patch 1.0.2245.0
+> Fixed Bank Editor
+> Added more stats to stat info
+> Internal Improvements
