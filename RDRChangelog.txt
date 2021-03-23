@@ -1,6 +1,6 @@
 >--- Changelog ---<
 
 Version 1.4.8
-&#8594; Fixed an issue with toggle textures
-&#8594; Added Halloween weather override option
-&#8594; Improved Horse always calm
+> Fixed an issue with toggle textures
+> Added Halloween weather override option
+> Improved Horse always calm
