@@ -1,6 +1,17 @@
 >--- Changelog ---<
 
-Version 1.4.8
-> Fixed an issue with toggle textures
-> Added Halloween weather override option
-> Improved Horse always calm
+Version 1.4.9
+> Improved Creator Cam
+> Added Quick Stop for horse
+> Added Grand Korrigan to IMAP Sets
+> Added Guarma Ship to IMAP Sets
+> Added Option to "Duel" with a ped in database
+> Re-organized Timecycle and AnimPostFX Modifiers
+> Added Timecycle strength value
+> Improved Toast and Right-Text Notification
+> Added Custom Size to Ped Spawner
+> Fixed an issue with Display Day Time (Realtime) not updating
+> Fixed and Improved player weight options
+> Added more items to give items
+> Added Command Input interface (WIP)
+> UI-Improvements
