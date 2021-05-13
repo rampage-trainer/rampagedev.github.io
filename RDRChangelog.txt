@@ -1,8 +1,20 @@
 >--- Changelog ---<
 
-Version 1.5.0
-> Added Support for Texture and Model Loading
-Just create a Textures and Models folder inside your RampageFiles folder
-(if it's not already existing)
-Put your .ydr and .ytd in the respective folders
-> Back-End working
+Version 1.5.1
+> Update to Game Patch 1.0.1355.30
+> Added Player Proof Options
+> Added Horse Auto Clean
+> Improved Infinite Ammo
+> Improved Freeze Gun
+> Added Weapon Scale Modifier
+> Improved Clear Bounty
+> Added Bypass Cheat Restrictions
+(This allows you to continue doing stuff ingame while having ingame cheats on 
+but more importantly it allows you to save your game.)
+(This has not been tested about future side effects so use with caution)
+> General Bug Fixing
+> Internal Tweaks
+> Merged Textures and Models Folder into Streaming folder
+From this version on put all streaming files into RampageFiles\Streaming
+Currently supported: .ytd, .ydr, .ydd, .yld, .ymt
+If you have issues reload your save or use any other available file streaming mod.
