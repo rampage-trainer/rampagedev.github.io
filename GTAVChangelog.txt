@@ -1,7 +1,12 @@
 >--- Changelog ---<
 
-Version 1.2.6
-> Updated to Game Patch 1.0.2245.0
-> Fixed Bank Editor
-> Added more stats to stat info
-> Internal Improvements
+Version 1.2.7
+> Added CMD Handler (WIP)
+> Improved Creator Cam
+> Improved Creator
+> Added Option to give nitro to any vehicle
+> Added Option to pre-spawn vehicles with parachute
+> Improved HUD Editor
+> Added Option to set weapon scale
+> General Bug Fixing
+> Improvements
