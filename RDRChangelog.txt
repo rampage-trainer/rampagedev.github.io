@@ -1,20 +1,33 @@
 >--- Changelog ---<
 
-Version 1.5.1
-> Update to Game Patch 1.0.1355.30
-> Added Player Proof Options
-> Added Horse Auto Clean
-> Improved Infinite Ammo
-> Improved Freeze Gun
-> Added Weapon Scale Modifier
-> Improved Clear Bounty
-> Added Bypass Cheat Restrictions
-(This allows you to continue doing stuff ingame while having ingame cheats on 
-but more importantly it allows you to save your game.)
-(This has not been tested about future side effects so use with caution)
-> General Bug Fixing
-> Internal Tweaks
-> Merged Textures and Models Folder into Streaming folder
-From this version on put all streaming files into RampageFiles\Streaming
-Currently supported: .ytd, .ydr, .ydd, .yld, .ymt
-If you have issues reload your save or use any other available file streaming mod.
+Version 1.5.2
+> Added Minimap zoom options
+> Added Option to toggle interior lightning
+> Added Teleport map (Base image used from the Red Dead Redemption 2 Map Mod by Jotrius)
+(For the map to work you need to have rampage_textures.ytd in your streaming folder.
+Use a new folder or just get the file from the new .zip)
+> Added Option to partial enable animal attacking
+> Added Option to toggle ped config flags
+> Added Option to set ambient voice for peds in database
+> Added Option to give default weapon set to ped
+> Added Gang Weapons for peds in database
+> Display Time will now also show the ingame day
+> Added Option to disable Water
+> Bounty Options now make you automatically wanted for the function to work
+> Added Option to kinda get unlimited items
+(It will prevent the game from removing items from your inventory
+Not tested about possible issues when playing story missions that remove items)
+> Improvements on some functions
+> Backend Working
+> Performance Improvements
+> Updated internal language standard to c++20
+(With this release all .ini support got dropped and all .ini related stuff has been replaced
+with either an .xml or an .json file. Due to that rampage has a new xml based object saver and older .ini files
+will no longer work with version 1.5.2.
+This means that if you want to keep your existing files you need to get the new Settings.json and the Hotkeys.json)
+Also the XML folder in the spooner folder got removed all map files can now just be placed inside the spooner folder.
+
+Quick Summarize what you need to do if you don't want to use a brand new folder
+> Put Textures.ytd in Streaming folder
+> Replace Settings.ini and Hotkeys.ini with Settings.json and Hotkey.json
+> Remove XML folder in Spooner folder
