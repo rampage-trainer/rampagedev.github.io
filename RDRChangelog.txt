@@ -26,8 +26,3 @@ with either an .xml or an .json file. Due to that rampage has a new xml based ob
 will no longer work with version 1.5.2.
 This means that if you want to keep your existing files you need to get the new Settings.json and the Hotkeys.json)
 Also the XML folder in the spooner folder got removed all map files can now just be placed inside the spooner folder.
-
-Quick Summarize what you need to do if you don't want to use a brand new folder
-> Put Textures.ytd in Streaming folder
-> Replace Settings.ini and Hotkeys.ini with Settings.json and Hotkey.json
-> Remove XML folder in Spooner folder
