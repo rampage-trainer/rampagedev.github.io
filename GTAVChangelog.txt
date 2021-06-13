@@ -1,12 +1,15 @@
 >--- Changelog ---<
 
-Version 1.2.7
-> Added CMD Handler (WIP)
-> Improved Creator Cam
-> Improved Creator
-> Added Option to give nitro to any vehicle
-> Added Option to pre-spawn vehicles with parachute
-> Improved HUD Editor
-> Added Option to set weapon scale
-> General Bug Fixing
-> Improvements
+Version 1.2.8
+> Added Option to auto-load xml maps at load (put them in MapMods/AutoLoad)
+> Added New xml based outfit saver
+> New Teleport map texture
+> Added IPL Loader from RDR2
+> Backed Working
+> Bug Fixes
+> Performance improvements
+> Updated internal language standard to c++20
+(With this release all .ini support got dropped and all .ini related stuff has been replaced
+with either an .xml or an .json file. Due to that rampage has a new xml based object saver and older .ini files
+will no longer work with version 1.2.8
+This means that if you want to keep your existing files you need to get the new Settings.json and the Hotkeys.json)
