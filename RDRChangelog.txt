@@ -15,14 +15,7 @@ Use a new folder or just get the file from the new .zip)
 > Added Option to disable Water
 > Bounty Options now make you automatically wanted for the function to work
 > Added Option to kinda get unlimited items
-(It will prevent the game from removing items from your inventory
-Not tested about possible issues when playing story missions that remove items)
 > Improvements on some functions
 > Backend Working
 > Performance Improvements
 > Updated internal language standard to c++20
-(With this release all .ini support got dropped and all .ini related stuff has been replaced
-with either an .xml or an .json file. Due to that rampage has a new xml based object saver and older .ini files
-will no longer work with version 1.5.2.
-This means that if you want to keep your existing files you need to get the new Settings.json and the Hotkeys.json)
-Also the XML folder in the spooner folder got removed all map files can now just be placed inside the spooner folder.
