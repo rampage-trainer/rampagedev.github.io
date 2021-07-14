@@ -1,19 +1,30 @@
-Version 1.5.2
-> Added Minimap zoom options
-> Added Option to toggle interior lightning
-> Added Teleport map (Base image used from the Red Dead Redemption 2 Map Mod by Jotrius)
-(For the map to work you need to have rampage_textures.ytd in your streaming folder.
-Use a new folder or just get the file from the new .zip)
-> Added Option to partial enable animal attacking
-> Added Option to toggle ped config flags
-> Added Option to set ambient voice for peds in database
-> Added Option to give default weapon set to ped
-> Added Gang Weapons for peds in database
-> Display Time will now also show the ingame day
-> Added Option to disable Water
-> Bounty Options now make you automatically wanted for the function to work
-> Added Option to kinda get unlimited items
-> Improvements on some functions
-> Backend Working
-> Performance Improvements
-> Updated internal language standard to c++20
+Version 1.5.3
+> Update to game patch 1.0.1436.25
+> Added Cloud Editor
+> Added Guarma hurricane water
+> Added Option to block ped from fleeing in ped editor
+> Added relationship setting for ped editor
+> Added Vehicle propsets
+> Improved Magnet Gun
+> Improved Drop Weapon
+> Added missing peds in naturalist category
+> Added spectate for ped in ped editor
+> Improved Aimbot
+> Added workaround for weapon reloading on model change (it will just skip the anim)
+> IPL Loader now supports interior loading (Example provided in ExampleSet.xml)
+> Teleport map will now show the location of your saddle horse
+> Implemented a new audio engine to fix all kinds of issues
+> (make sure you have the two plugins from the new files to be able to use them)
+> Added Always killcam
+> Added Option to give weapon components to revolvers and pistols by hash
+> Added Option to load custom anim lists (example list provided in Lists folder)
+> Added Option to teleport to nearest train track
+> Added Option to detach vehicle wheels
+> Added eagle eye plus (let's you use eagle-eye on horse and while walking faster)
+> Undead Nightmare minigame now features 166 different appearances for zombie models
+> Added Option to permanently set core ranks for Arthur and John
+> If Sync Toggles is enabled it will now auto-save every 30 seconds
+> Fixed typos
+> Re-worked ui backend
+> Fixed various bugs and issues
+> Performance improvements on many functions and submenus
