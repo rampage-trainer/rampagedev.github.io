@@ -1,13 +1,28 @@
-Version 1.2.8
-> Added Option to auto-load xml maps at load (put them in MapMods/AutoLoad)
-> Added New xml based outfit saver
-> New Teleport map texture
-> Added IPL Loader from RDR2
-> Backed Working
-> Bug Fixes
-> Performance improvements
-> Updated internal language standard to c++20
-(With this release all .ini support got dropped and all .ini related stuff has been replaced
-with either an .xml or an .json file. Due to that rampage has a new xml based object saver and older .ini files
-will no longer work with version 1.2.8
-This means that if you want to keep your existing files you need to get the new Settings.json and the Hotkeys.json)
+Version 1.2.9
+> Update to game patch 1.0.2372.0
+> Added new Vehicles
+> Added new Peds
+> Added new Objects
+> Added Beast Jump
+> Added Vehicle Spawn on closest road setting
+> Added Vehicle Spawn with blip setting
+> Added Vehicle random tune option
+> Added Vehicle enveff scale option
+> Added new Track Wheels
+> Added Low Grip Tires option
+> Added Low Vehicle Stance option
+> Improved MagnetGun
+> Improved Aimbot
+> Added Remove Waypoint option
+> Added Hand-Trails to particle man submenu
+> Improved Ghost Rider mode
+> Added City Cams
+> Implemented a new audio engine to fix all kinds of issues
+(make sure you have the two plugins from the new files to be able to use them)
+> Improved Instructional Buttons
+> Teleport map now shows the location of your personal vehicle
+> Fixed an issue with overriding toggles on auto sync
+> Fixed typos
+> Re-worked ui backend
+> Fixed various bugs and issues
+> Performance improvements on many functions and submenus
