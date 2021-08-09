@@ -1,4 +1,20 @@
-Version 1.5.4
-> Added all new peds from Blood Money update
-> Saving and Loading Toggles.json should now work if you have the correct folder permissions
-> Removed support for various streaming files
+Version 1.5.5
+> Removed Auto-Sync for toggles due to some issues
+> Remove current Weapon now uses the weapon guid to identify
+> Added Option to Teleport to horse
+> Auto-Clean Weapon will now clean both weapons on dual wield
+> Added Options to apply visual damage packs to your ped
+> Added Quick Loot
+> Added Option to max out items when buying or looting only one
+> Added Search for scenario submenus
+> Added Option to display waypoint distance
+> Added Object Attachment Options (WIP)
+> Added All missing emotes from rdo (most of them will only work with mp content loaded)
+> Changed Opacity Option for player and vehicle (Now works with percentage jumps)
+> Fixed rotation bug in Horse FlyMode
+> Fixed an issue with minimap zoom being reset
+> Improved Unlock section in Character Stats
+> Tweaked Bounty Submenu
+> Tweaked Honor Submenu
+> More options are now saved to Toggles.json
+> Tweaked some messages and notifications
