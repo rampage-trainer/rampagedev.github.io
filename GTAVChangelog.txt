@@ -1,28 +1,12 @@
-Version 1.2.9
-> Update to game patch 1.0.2372.0
-> Added new Vehicles
-> Added new Peds
-> Added new Objects
-> Added Beast Jump
-> Added Vehicle Spawn on closest road setting
-> Added Vehicle Spawn with blip setting
-> Added Vehicle random tune option
-> Added Vehicle enveff scale option
-> Added new Track Wheels
-> Added Low Grip Tires option
-> Added Low Vehicle Stance option
-> Improved MagnetGun
-> Improved Aimbot
-> Added Remove Waypoint option
-> Added Hand-Trails to particle man submenu
-> Improved Ghost Rider mode
-> Added City Cams
-> Implemented a new audio engine to fix all kinds of issues
-(make sure you have the two plugins from the new files to be able to use them)
-> Improved Instructional Buttons
-> Teleport map now shows the location of your personal vehicle
-> Fixed an issue with overriding toggles on auto sync
-> Fixed typos
-> Re-worked ui backend
-> Fixed various bugs and issues
-> Performance improvements on many functions and submenus
+Version 1.3.0
+> Update to game patch 1.0.2372.2
+> Updated minimap texture and blip textures
+> Vehicle and Player opacity now works with percentage jumps
+> Improved Wardrobe (texture variants are now available)
+> Vehicle Mods in lsc submenu will now only show if the vehicle has mods for the slot
+> Added more scenarios
+> Added customizable list with all available scenarios
+> Weapon info now shows images for all basic weapons
+> Improved Ped Editor
+> Added Ped Spawner options
+> Fixed a bug where headlights on xml vehicles were not working
