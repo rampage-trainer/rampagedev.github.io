@@ -1,20 +1,12 @@
-Version 1.5.5
-> Removed Auto-Sync for toggles due to some issues
-> Remove current Weapon now uses the weapon guid to identify
-> Added Option to Teleport to horse
-> Auto-Clean Weapon will now clean both weapons on dual wield
-> Added Options to apply visual damage packs to your ped
-> Added Quick Loot
-> Added Option to max out items when buying or looting only one
-> Added Search for scenario submenus
-> Added Option to display waypoint distance
-> Added Object Attachment Options (WIP)
-> Added All missing emotes from rdo (most of them will only work with mp content loaded)
-> Changed Opacity Option for player and vehicle (Now works with percentage jumps)
-> Fixed rotation bug in Horse FlyMode
-> Fixed an issue with minimap zoom being reset
-> Improved Unlock section in Character Stats
-> Tweaked Bounty Submenu
-> Tweaked Honor Submenu
-> More options are now saved to Toggles.json
-> Tweaked some messages and notifications
+Version 1.5.6
+> Update to game patch 1.0.1436.26
+> Improved Wardrobe Cam
+> Added Option to fill ammo for peds
+> Added Clip through objects
+> Added Option to add spawned vehicle to the object database
+> Added Remove Weapon Wheel Slow-Down
+> Added Spawn as Enemy to ped spawner options
+> Added Option to attach other peds to me
+> Added Weapon scale option for peds
+> Fixed an issue that caused cmd line or mouse activation on keyboard inputs
+> You can now jump to the top or bottom on submenus by holding down Ctrl and using the arrow keys
