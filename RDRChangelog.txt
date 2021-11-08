@@ -1,12 +1,8 @@
-Version 1.5.6
-> Update to game patch 1.0.1436.26
-> Improved Wardrobe Cam
-> Added Option to fill ammo for peds
-> Added Clip through objects
-> Added Option to add spawned vehicle to the object database
-> Added Remove Weapon Wheel Slow-Down
-> Added Spawn as Enemy to ped spawner options
-> Added Option to attach other peds to me
-> Added Weapon scale option for peds
-> Fixed an issue that caused cmd line or mouse activation on keyboard inputs
-> You can now jump to the top or bottom on submenus by holding down Ctrl and using the arrow keys
+Version 1.5.7
+> Fixed a bug where the bank balance is displayed incorrectly
+> Added animated header from the gta v version
+> Added Animals ignore player option (thanks to fingaweg)
+> Added Option to prevent weapon degradiation instead of auto-cleaning
+> Moved some of the weapon condition options to weapon visuals
+> Added Custom input to enable ped body components by hash
+> Updated Buildtools to latest version
