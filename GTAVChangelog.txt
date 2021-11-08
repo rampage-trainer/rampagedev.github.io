@@ -1,12 +1,4 @@
-Version 1.3.0
-> Update to game patch 1.0.2372.2
-> Updated minimap texture and blip textures
-> Vehicle and Player opacity now works with percentage jumps
-> Improved Wardrobe (texture variants are now available)
-> Vehicle Mods in lsc submenu will now only show if the vehicle has mods for the slot
-> Added more scenarios
-> Added customizable list with all available scenarios
-> Weapon info now shows images for all basic weapons
-> Improved Ped Editor
-> Added Ped Spawner options
-> Fixed a bug where headlights on xml vehicles were not working
+Version 1.3.1
+> Fixed an issue where crashes could happen when using custom input options with ScriptHookV.net installed
+> Added an extra list where all vehicles are sorted per dlc
+> Improved Vehicle Spawner options
