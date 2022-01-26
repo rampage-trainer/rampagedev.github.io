@@ -1,8 +1,13 @@
-Version 1.5.7
-> Fixed a bug where the bank balance is displayed incorrectly
-> Added animated header from the gta v version
-> Added Animals ignore player option (thanks to fingaweg)
-> Added Option to prevent weapon degradiation instead of auto-cleaning
-> Moved some of the weapon condition options to weapon visuals
-> Added Custom input to enable ped body components by hash
-> Updated Buildtools to latest version
+Version 1.5.8
+> Wardrobe Categories now have their own submenus
+> Mobile Stable Categories now have their own submenus
+> Add Ragdoll Option
+> Add Option to remove pelts from your horse
+> Shops and Services now have their own submenus
+> Added Teleport to Blips submenu
+> Added Take a Photo option
+> Added more effects
+> Added Soul Swap Gun
+> Added Option to unlock all journal entries
+> General improvements
+> Bug Fixes
