@@ -1,4 +1,4 @@
-Version 1.5.8
+Version 1.5.9
 > Update to game patch 1.0.1436.31
 > Added Rope Gun
 > Added More Zoom-Levels for Radar
