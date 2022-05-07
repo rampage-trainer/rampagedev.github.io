@@ -1,13 +1,29 @@
 Version 1.5.8
-> Wardrobe Categories now have their own submenus
-> Mobile Stable Categories now have their own submenus
-> Add Ragdoll Option
-> Add Option to remove pelts from your horse
-> Shops and Services now have their own submenus
-> Added Teleport to Blips submenu
-> Added Take a Photo option
-> Added more effects
-> Added Soul Swap Gun
-> Added Option to unlock all journal entries
-> General improvements
-> Bug Fixes
+> Update to game patch 1.0.1436.31
+> Added Rope Gun
+> Added More Zoom-Levels for Radar
+> Added Rotate Option for Mission Trains
+> Added Health Recharge Multiplier Option
+> Added Stamina Recharge Multiplier Option
+> Added Whistle options for mission train
+> Disable Hitmarker can now be turned on and off
+> Disable Hit Feedback can now be turned on and off
+> Added Option to Disable Distant Lights
+> Added Populate Area Option
+> Added Disarm Enemies Option (Tries to disarm some enemies)
+> Improved Bodyguard Behaviour
+> Added Missing Game-Music
+> Added Function to Change Between Arthur and John in Freeplay
+> Added Option to Load Outfit from Internal Datafile (WIP)
+> Added Option to Unlock all Outfits
+> Added Option to Unlock all Recipes
+> Added Option to Remove all Screen Effects
+> Moved Options inside the Settings Submenu
+> Internal Improvements
+> Improved Toggle Saving System (Please make sure to remove your old Toggles.json file)
+> The Debug-Console will now only open if you have a "Rampage.dev" file in your game directory
+> The Streaming folder got renamed back to Textures as all custom texture loading is now discarded
+> The IMAP folder has been renamed to IPL to match names 
+(This means that if you made custom sets you have to rename the sections inside the file IMAPS -> IPLS and IMAP -> IPL)
+> Added Option to AutoLoad Maps at startup
+(Please keep in mind that this option may can cause crashes depending on your spwan location and number of objects that will get spawned)
