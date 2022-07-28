@@ -1,29 +1,25 @@
-Version 1.5.9
-> Update to game patch 1.0.1436.31
-> Added Rope Gun
-> Added More Zoom-Levels for Radar
-> Added Rotate Option for Mission Trains
-> Added Health Recharge Multiplier Option
-> Added Stamina Recharge Multiplier Option
-> Added Whistle options for mission train
-> Disable Hitmarker can now be turned on and off
-> Disable Hit Feedback can now be turned on and off
-> Added Option to Disable Distant Lights
-> Added Populate Area Option
-> Added Disarm Enemies Option (Tries to disarm some enemies)
-> Improved Bodyguard Behaviour
-> Added Missing Game-Music
-> Added Function to Change Between Arthur and John in Freeplay
-> Added Option to Load Outfit from Internal Datafile (WIP)
-> Added Option to Unlock all Outfits
-> Added Option to Unlock all Recipes
-> Added Option to Remove all Screen Effects
-> Moved Options inside the Settings Submenu
+Version 1.6.0
+> Added Control Options for Emotes
+> Added Option to Loop Particle Fx
+> Added more Particle Fx Effects
+> Added Option to disable Help Text's
+> Added Option to hide Point's of Interest
+> Added Supress Train Whistle Option
+> Added Option for Smooth Weather Transitions
+> Added Selected Scripted Conversations to Speech Submenu
+> Added Support to save peds and vehicles to object database export
+> Added Add to Inventory option to give you items directly into your inventory
+> Improved Ped Config Flags Option
+> Improved Bodyguard Options
+> Improved Script Loader Data
+> Improved BlipList in Teleport Section
+> Fixed an issue with Stop current cutscene
+> Fixed an issue where Posse Commands could cause exceptions
+> Posse is now merged with the bodyguard options
+> Facial Hair can now be applied instantly
+> The selected language is now saved
+< Setting a hotkey will now display if it's a permanent or temporary hotkey
+> Switched from MinHook to PolyHookV2
+> Made some structural changes in some submenus
 > Internal Improvements
-> Improved Toggle Saving System (Please make sure to remove your old Toggles.json file)
-> The Debug-Console will now only open if you have a "Rampage.dev" file in your game directory
-> The Streaming folder got renamed back to Textures as all custom texture loading is now discarded
-> The IMAP folder has been renamed to IPL to match names 
-(This means that if you made custom sets you have to rename the sections inside the file IMAPS -> IPLS and IMAP -> IPL)
-> Added Option to AutoLoad Maps at startup
-(Please keep in mind that this option may can cause crashes depending on your spwan location and number of objects that will get spawned)
+To update from an existing installation make sure you replace your settings and texture file
