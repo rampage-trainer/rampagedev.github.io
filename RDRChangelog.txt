@@ -3,7 +3,7 @@ Version 1.6.0
 > Added Option to Loop Particle Fx
 > Added more Particle Fx Effects
 > Added Option to disable Help Text's
-> Added Option to hide Point's of Interest
+> Added Option to hide Points of Interest
 > Added Supress Train Whistle Option
 > Added Option for Smooth Weather Transitions
 > Added Selected Scripted Conversations to Speech Submenu
