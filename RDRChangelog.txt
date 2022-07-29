@@ -1,25 +1,2 @@
 Version 1.6.0
-> Added Control Options for Emotes
-> Added Option to Loop Particle Fx
-> Added more Particle Fx Effects
-> Added Option to disable Help Text's
-> Added Option to hide Points of Interest
-> Added Supress Train Whistle Option
-> Added Option for Smooth Weather Transitions
-> Added Selected Scripted Conversations to Speech Submenu
-> Added Support to save peds and vehicles to object database export
-> Added Add to Inventory option to give you items directly into your inventory
-> Improved Ped Config Flags Option
-> Improved Bodyguard Options
-> Improved Script Loader Data
-> Improved BlipList in Teleport Section
-> Fixed an issue with Stop current cutscene
-> Fixed an issue where Posse Commands could cause exceptions
-> Posse is now merged with the bodyguard options
-> Facial Hair can now be applied instantly
-> The selected language is now saved
-< Setting a hotkey will now display if it's a permanent or temporary hotkey
-> Switched from MinHook to PolyHookV2
-> Made some structural changes in some submenus
-> Internal Improvements
-To update from an existing installation make sure you replace your settings and texture file
+> Fixed a conflict with VESTIGIA where using the rdr-translator.asi would lead to a crash at startup
