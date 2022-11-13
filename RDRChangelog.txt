@@ -1,2 +1,2 @@
-Version 1.6.1
-> Fixed a conflict with VESTIGIA where using the rdr-translator.asi would lead to a crash at startup
+Version 1.6.2
+> Some text here
