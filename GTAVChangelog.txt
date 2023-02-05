@@ -1,8 +1,3 @@
-Version 1.3.5
+Version 1.3.7
 
-> Update to game patch 1.0.2699.16
-> DLC Vehicle List now also has vehicle images
-> Favourite Vehicles now have vehicle images
-> Added Search for timecycle modfifiers
-> Added support for saving and loading weapon loadouts
-> Internal Improvements
+> Update to game patch 1.0.2824.0
