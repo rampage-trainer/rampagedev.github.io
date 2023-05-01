@@ -1,22 +1,24 @@
-Version 1.6.3
-> Added Experimental Script Patcher
-> Added Option to set the maximum visible options
-> Added toggle to enable alternative ink drawing for menu
-> Added two missing horses to miscellaneous tab
-> Added more train configs to train creator
-> Added option to add own speeches
-> Added option to disable water drown/kill zones
-> Added option to quick teleport to any ipl coords from the list
-> Added an option to ped spawner to block honor and wanted influence for spawned peds
-> Improved Airwalk
-> Improved Gravity Gun
-> You can now decide to which bone you want to attach peds or objects
-> Animal Unlocks have been improved and made faster
-> Fish Unlocks will now add the uncatchable legendary channel catfish
-> Fixed an issue where "Unlock all Outfits" could break Legend of the East perks
-> Fixed an issue where after using "Guarma Hurricane Water" there would be no waves or foam
-> Fixed an issue where "Unlock all Receips" would do nothing
-> Fixed an isseu where "Unlock all Weapons" wouldn't unlock a few weapons
-> Fixed an issue where markers wouldn't appear on the teleport map
-> Fixed a bunch of typing mistakes
-> In this version we switched back to minhook to enhance compatibility with linux
+Version 1.6.4
+> Added Ped Meta Tags Submenu
+> Added Additional voice and speech options
+> Added Drunk Mode
+> Added Horse Body Components
+> Added Option Get Duplicate Model for weapons
+> Added Option to fill ammo for only the current used weapon and ammo type
+> Added Spawn Random Animal
+> Added Combat styles for peds
+> Added missing wagons
+> Added Option to always show the honor bar
+> Added speed selection for No Clip
+> Added more items to the give items submenu
+> Added more option descriptions
+> The Object Database can now be exported to a ymt file to easily load it with lml
+> Improved Weapon Management
+> Blackhole can now also affect the player
+> Player Clean can now be toggled
+> Remade Emote submenu now categorized with textures
+> General Improvements
+> Fixed an issue where auto aim would target your personal horse
+> Fixed that object attachments wouldn't update their position correctly on custom attached bones
+> Fixed an issue where honor modification wouldn't work in combination with ambient gangs mod
+> Fixed an issue where it was possible to use hotkeys inside the input box screen
