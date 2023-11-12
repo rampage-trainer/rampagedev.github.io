@@ -1,24 +1,22 @@
-Version 1.6.4
-> Added Ped Meta Tags Submenu
-> Added Additional voice and speech options
-> Added Drunk Mode
-> Added Horse Body Components
-> Added Option Get Duplicate Model for weapons
-> Added Option to fill ammo for only the current used weapon and ammo type
-> Added Spawn Random Animal
-> Added Combat styles for peds
-> Added missing wagons
-> Added Option to always show the honor bar
-> Added speed selection for No Clip
-> Added more items to the give items submenu
-> Added more option descriptions
-> The Object Database can now be exported to a ymt file to easily load it with lml
-> Improved Weapon Management
-> Blackhole can now also affect the player
-> Player Clean can now be toggled
-> Remade Emote submenu now categorized with textures
-> General Improvements
-> Fixed an issue where auto aim would target your personal horse
-> Fixed that object attachments wouldn't update their position correctly on custom attached bones
-> Fixed an issue where honor modification wouldn't work in combination with ambient gangs mod
-> Fixed an issue where it was possible to use hotkeys inside the input box screen
+Version 1.6.5
+> Added Auto Teleport to Waypoint
+> Added Opacity Setting for Peds in the Ped Editor
+> Added Elevation Safe Teleport For-/Backward
+> Added Vehicle Ghostmode Draft Animals
+> Added Vehicle Draft Animals Flaming Hooves
+> Added Vehicle Alpha Setting for Draft Animals
+> Added Drive On Water for Draft Vehicles
+> Added Weapon Skill Stat Editing
+> Added Experimental Volume Editor
+> Added Support for attaching objects to peds in the ped database
+> Added Patch to be able to spawn all types of objects
+> Animal Spawner list is now updated to be aligned with the the compendium
+> Fish Spawner list is now updated to be aligned with the compendium
+> Horse Spawner will now give random saddle components when "Spawn on Horse" is enabled
+> Keyboard Input now has a higher character limit (90)
+> Fixed an issue where disabling "Disco Lantern" would set lantern light to wrong light tone
+> Fixed a wrong alligator naming in ped spawner
+> Fixed an issue with weather transition when having freeze weather enabled
+> Improved Hogtie Nearby Peds
+> Improved Color Palette
+> Internal Improvements
