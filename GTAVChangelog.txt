@@ -1,7 +1,21 @@
 Version 1.3.8
 
-> Update to game patch 1.0.2944.0
+> Updated to game patch 1.0.3095.0
 > Added new DLC Vehicles
 > Added new DLC Weapons
 > Added new DLC Peds
 > Added new DLC Objects
+> Added Ped Editor Submenu
+> Added Play Speech Submenu
+> Added Player Config Flags Submenu
+> Overhaul LSC Submenu
+> Overhaul UI and Feed Backend
+> Added YMAP Database Export 
+> Added Ammunition Submenu
+> Added Clear Fog
+> Added Enhanced Info to Vehicle Info Box
+> Added More Vehicle Handling Options
+> Added Edit Light Brightness
+> Added new Vanity Plates
+> Music player now additionally supports .wav and .ogg files
+> Improved Snow On Terrain
