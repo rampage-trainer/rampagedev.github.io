@@ -1,7 +1,8 @@
-Version 1.4.0
+Version 1.4.5
 
-> Updated to game patch 1.0.3258.0
-> Added new DLC Vehicles
-> Added new DLC Weapons
-> Added new DLC Peds
-> Added new DLC Objects
+> Updated to game patch 1.0.3586.0
+> Added Stats Editor
+> Fixed bug with vehicle lights in XML Loader
+> Fixed issue with saving selected text color
+> Added toggle for Auto Save (saves toggles every minute)
+
