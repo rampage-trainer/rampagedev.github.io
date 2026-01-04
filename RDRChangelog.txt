@@ -1,39 +1,6 @@
-Version 1.6.6
->Updated to Game Build v.1.0.1491.50
->Added Mount Cover feature from RDO
->Added Law ignore feature
->Added Horse Ragdoll
->Added Ped Combat Attributes
->Added Meta Tags options for Horse
->Added Meta Ped Expressions for peds and horses
->Added Gun Belt Ammunition to Wardrobe
->Added World State Controls
->Added Wipe Inventory function
->Added Option to unreveal the map
->Added Script Global Editor
->Added Option to let peds dual wield revolvers
->Added List to load custom added peds via the spawner
->Added Option to force all DLC's present
->Re-added the Cash Drop
+Version 1.6.8
+> Applying an outfit preset to your current player model could cause problems with add-on peds because facial hair was not being overwritten.
+That change has now been reverted. If you want to keep your facial hair when changing outfit presets, hold Shift while scrolling through the presets.
+> Old method of adding cigarette cards via spawning chests has been re-added, as the new method caused issues where the cards did not count toward progression.
+> You can now customize more parts of the trainer and additionally save custom themes as standalone theme files to RampageFiles\Themes
 
->Fixed an issue where the trainer could be opened with alternate controller keys mapped on keyboard
->Fixed an issue where the creator cam could be opened with alternate controller keys mapped on keyboard
->Fixed an internal issue with the presence plugin
->Fixed a bug with portal gun where it would teleport occasional you to <<0, 0, 0>> if no 2nd portal is set
->Fixed an issue where hex hashes were not correctly parsed if the only consist of numbers
->Fixed incorrect animal variations in spawner
->Fixed an issue with giving weapons to peds
->Fixed a potential crash with displayed help texts
-
->Music Player now supports .wav and .ogg files
->Improved Ped Meta Tags
->Seasonal Events can now be toggled
->Animation Player got overhauled with more functionality
->Peds can now be attached to other peds
->Documents were added to give items
->Script Patcher now fully support various return types
->Script Monitor now shows more detail on running scripts
-
->3rd Party dependencies updated
->Mini Dumps are now written on exceptions with advanced logging turned on
->Internal Improvements
